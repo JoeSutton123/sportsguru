@@ -28,7 +28,7 @@ twitter_username: joe25sutton
 github_username:  joesutton123
 
 # Build settings
-theme: minima
+theme: modernist
 plugins:
   - jekyll-feed
 
